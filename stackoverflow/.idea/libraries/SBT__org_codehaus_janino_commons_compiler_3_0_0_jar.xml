@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.codehaus.janino:commons-compiler:3.0.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/codehaus/janino/commons-compiler/3.0.0/commons-compiler-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/codehaus/janino/commons-compiler/3.0.0/commons-compiler-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
