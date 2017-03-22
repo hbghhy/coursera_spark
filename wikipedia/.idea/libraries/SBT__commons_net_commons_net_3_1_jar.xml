@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: commons-net:commons-net:3.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/commons-net/commons-net/3.1/commons-net-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/commons-net/commons-net/3.1/commons-net-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

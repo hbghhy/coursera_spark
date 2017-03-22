@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.glassfish.hk2.external:javax.inject:2.4.0-b34:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

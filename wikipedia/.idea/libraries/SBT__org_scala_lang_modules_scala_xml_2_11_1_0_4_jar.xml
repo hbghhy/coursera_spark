@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
