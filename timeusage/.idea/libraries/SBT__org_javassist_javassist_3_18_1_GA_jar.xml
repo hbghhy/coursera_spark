@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.javassist:javassist:3.18.1-GA:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

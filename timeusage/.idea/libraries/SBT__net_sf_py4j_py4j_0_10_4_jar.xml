@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.sf.py4j:py4j:0.10.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/net/sf/py4j/py4j/0.10.4/py4j-0.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/net/sf/py4j/py4j/0.10.4/py4j-0.10.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

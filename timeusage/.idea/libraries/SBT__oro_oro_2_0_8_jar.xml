@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: oro:oro:2.0.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/oro/oro/2.0.8/oro-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/oro/oro/2.0.8/oro-2.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
